@@ -1,0 +1,7 @@
+2023-09-30 13:14:S INFO ====== WebDriver manager ======
+2023-09-30 13:14:S INFO Get LATEST chromedriver version for google-chrome
+2023-09-30 13:14:S INFO Get LATEST chromedriver version for google-chrome
+2023-09-30 13:14:S INFO Driver [C:\Users\wdelements\.wdm\drivers\chromedriver\win64\116.0.5845.96\chromedriver-win32/chromedriver.exe] found in cache
+2023-09-30 13:14:S INFO Send wdlts3 to element /html/body/div/main/div/div/div[1]/form/div[1]/label/input
+2023-09-30 13:14:S INFO Send 5844b1214b to element /html/body/div/main/div/div/div[1]/form/div[2]/label/input
+2023-09-30 13:14:S INFO Login button click
